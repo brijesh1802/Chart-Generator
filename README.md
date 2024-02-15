@@ -9,12 +9,12 @@ Create dynamic and visually appealing charts with ease using Chart.js. This web 
 - **Customization Options:** Customize the appearance and styling of your charts.
 
 ## ScreenShots
-![Image 1]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img1.png])
-![Image 2]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img2.png])
-![Image 3]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img3.png])
-![Image 4]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img4.png])
-![Image 5]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img5.png])
-![Image 6]([https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img6.png])
+![Image 1](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img1.png)
+![Image 2](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img2.png)
+![Image 3](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img3.png)
+![Image 4](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img4.png)
+![Image 5](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img5.png)
+![Image 6](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img6.png)
 
 
 ## Getting Started
