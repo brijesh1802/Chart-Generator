@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Chart Generator</h1>
+        <div class="chart-container">
+            <div id="canvas"></div>
+        </div>
+
+        <div class="chart-setting">
+            <select id="chartType" class="select">
+                <option value="bar" selected>Bar Chart</option>
+                <option value="pie">Pie Chart</option>
+                <option value="line">Line Chart</option>
+                <option value="doughnut">Doughnut Chart</option>
+                <option value="radar">Radar Chart</option>
+            </select>
+            <input type="text" id="label" class="input" placeholder="Label">
+            <input type="number" id="data" class="input" placeholder="Data">
+            <button class="btn" onclick="addData()">Add Data</button>
+            <button class="btn" onclick="updateChartType()">Change Chart Type</button>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="Main.js"></script>
+</body>
+</html>
