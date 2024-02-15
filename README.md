@@ -8,6 +8,13 @@ Create dynamic and visually appealing charts with ease using Chart.js. This web 
 - **Multiple Chart Types:** Choose from a variety of chart types to suit your data visualization needs.
 - **Customization Options:** Customize the appearance and styling of your charts.
 
+##ScreenShots
+![Image 1]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img1.png))
+![Image 2]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img2.png))
+![Image 3]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img3.png))
+![Image 4]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img4.png))
+![Image 5]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img5.png))
+![Image 6]([url_to_image](https://github.com/brijesh1802/Chart-Generator/blob/main/Assets/img6.png))
 
 
 ## Getting Started
